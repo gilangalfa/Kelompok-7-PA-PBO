@@ -19,7 +19,7 @@ Meningkatkan akurasi dalam penilaian dan pelaporan kemajuan siswa.
 
 (pastikan foto dimasukkan di baris ini)
 
-(penjelasan di baris ini jika ada)
+tes
 
 ### ERD
 
