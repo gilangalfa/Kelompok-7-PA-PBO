@@ -7,4 +7,10 @@
 
 - Fitur : 
 Pengelolaan Data Siswa & Guru : Aplikasi ini akan memungkinkan sekolah untuk mengimpor dan mengelola data siswa & Guru, termasuk informasi pribadi, riwayat akademik, dan lainnya.
+Pengelolaan Mata Pelajaran    : Aplikasi ini memungkinkan sekolah untuk mengelola data mata pelajaran yang ada disekolah.
 Pembuatan Raport Otomatis     : Guru dapat memasukkan nilai siswa secara real-time. 
+Keamanan Data                 : Aplikasi akan memastikan keamanan data pribadi siswa dan integritas laporan akademik, sehingga hanya pihak yang berwenang yang dapat mengaksesnya.
+
+- Manfaat
+Meningkatkan efisiensi dalam penyusunan raport dengan mengurangi waktu dan upaya yang diperlukan.
+Meningkatkan akurasi dalam penilaian dan pelaporan kemajuan siswa.
