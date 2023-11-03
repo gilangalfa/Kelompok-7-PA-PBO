@@ -14,3 +14,26 @@ Keamanan Data                 : Aplikasi akan memastikan keamanan data pribadi s
 - Manfaat
 Meningkatkan efisiensi dalam penyusunan raport dengan mengurangi waktu dan upaya yang diperlukan.
 Meningkatkan akurasi dalam penilaian dan pelaporan kemajuan siswa.
+
+### Flowchart
+
+(pastikan foto dimasukkan di baris ini)
+
+(penjelasan di baris ini jika ada)
+
+### ERD
+
+(pastikan foto dimasukkan di baris ini)
+
+(penjelasan di baris ini jika ada)
+
+### Hierarki atau Inheritance atau Abstraction
+
+(pastikan foto dimasukkan di baris ini)
+
+(penjelasan di baris ini jika ada)
+
+### Screeshoot Coding serta penjelasan
+
+### Screenshoot Output
+
